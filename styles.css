@@ -1,0 +1,98 @@
+.inner{
+    border: 5px ridge rgb(55, 135, 216);
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    min-width: 200px;
+}
+
+#menu-col{
+    max-height: 290px;
+   
+}
+
+#inner2{
+    max-height: 890px;
+    overflow-y: scroll;
+}
+
+.sender-info{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#logo-row{
+    justify-content: center;
+}
+
+.search-box{
+    width: 150px;
+    height: 38px;
+    margin-top: 0px;
+    margin-right: 10px;
+    vertical-align: top;
+    align-items: top;
+
+   
+}
+
+#search-box-col{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#search-button{
+    margin-top: 0px;
+    align-items: top;
+  
+
+}
+
+#other-col{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.menu-item{
+    display: flex;
+    margin-top:10px;
+
+    min-width: 40px;
+    justify-content: center;
+
+}
+
+.menu-button{
+    margin-left:3px;
+    margin-right:3px;
+    width:110px;
+}
+
+.reply-row{
+    display:flex;
+    justify-content: right;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.reply-msg-btn{
+    width: 80px;
+}
+
+.logo{
+    margin-top: 3px;
+    width:120px;
+}
+
+.accord-col{
+    margin-right: 10px;
+}
+
+.navbar{
+    margin-right: -12px;
+    margin-left: -12px;
+}
